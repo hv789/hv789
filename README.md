@@ -19,7 +19,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **My Institute related projects**
 
-- 🌱 I’m currently learning **Recoil, Pug, Docker, Firebase, MySQL**
+- 🌱 I’m currently learning **Recoil, Docker, Firebase, MySQL and DevOps**
+
+- ☁️ I've keen interest in production workflows. So,I'm learning DevOps
 
 - 📝 All of my projects are available at https://github.com/hv789
 
