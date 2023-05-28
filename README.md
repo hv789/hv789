@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm good at Ctrl+C Ctrl+V </h2></summary>
+    <summary><h2 style="display: inline-block">I'm good at Ctrl+C & Ctrl+V </h2></summary>
   </ul>
 </div>
 
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Recoil, Docker, Firebase, MySQL and DevOps**
 
-- ☁️ I've keen interest in production workflows. So,I'm learning DevOps
+- ☁️ I've keen interest in production workflows. So,I'm learning **DevOps**
 
 - 📝 All of my projects are available at https://github.com/hv789
 
