@@ -17,15 +17,15 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **My Institute related projects**
+- 🔭 I’m currently working on **Internship projects**
 
-- 🌱 I’m currently learning **Recoil, Docker, Firebase, MySQL and DevOps**
+- 🌱 I’m currently learning **DevOps, AWS, and Cloud Technologies**
 
 - ☁️ I've keen interest in production workflows. So,I'm learning **DevOps**
 
 - 📝 All of my projects are available at https://github.com/hv789
 
-- 💬 Ask me about **React, React-Native, Nodejs, MongoDB, C++ and DSA**
+- 💬 Ask me about **React, React-Native, Nodejs, DevOps, Cloud, C++ and DSA**
 
 - 📫 Feel free to reach me out **hv2003789@gmail.com**
 
@@ -74,7 +74,12 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gcp,bootstrap,c,cpp,css,discord,docker,express,figma,firebase,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,react,redux,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,mysql,materialui&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase,linux,postman,figma,vscode&perline=14" />
   </a>
 </p>
 
