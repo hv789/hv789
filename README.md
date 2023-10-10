@@ -31,7 +31,7 @@
 
 <!-- Holopin Badges -->
 
-[![@hv789's Holopin board](https://holopin.io/api/user/board?user=hv789)](https://holopin.io/@hv789)
+[![An image of @hv789's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hv789)](https://holopin.io/@hv789)
 
 <!--Intro end-->
 
