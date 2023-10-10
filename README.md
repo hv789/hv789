@@ -29,6 +29,10 @@
 
 - 📫 Feel free to reach me out **hv2003789@gmail.com**
 
+<!-- Holopin Badges -->
+
+[![@hv789's Holopin board](https://holopin.io/api/user/board?user=hv789)](https://holopin.io/@hv789)
+
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
