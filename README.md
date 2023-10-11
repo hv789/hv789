@@ -78,12 +78,17 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,mysql,materialui&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,php&perline=14" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase,linux,postman,figma,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind,materialui&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes,bash,linux,postman,figma,vscode&perline=14" />
   </a>
 </p>
 
