@@ -35,7 +35,7 @@
 
 <!-- DevCard -->
 
-<a href="https://app.daily.dev/hv789"><img src="https://api.daily.dev/devcards/v2/4mKrE1cVzXtSJtpkincuT.png?r=yao&type=default" width="356" alt="Harsha Vardhan's Dev Card"/></a>
+<a href="https://app.daily.dev/hv789"><img align="center" src="https://api.daily.dev/devcards/v2/4mKrE1cVzXtSJtpkincuT.png?r=yao&type=default" width="356" alt="Harsha Vardhan's Dev Card"/></a>
 
 <!--Intro end-->
 
