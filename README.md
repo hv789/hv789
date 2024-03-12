@@ -34,8 +34,9 @@
 [![An image of @hv789's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hv789)](https://holopin.io/@hv789)
 
 <!-- DevCard -->
-
-<a href="https://app.daily.dev/hv789"><img align="center" src="https://api.daily.dev/devcards/v2/4mKrE1cVzXtSJtpkincuT.png?r=yao&type=default" width="356" alt="Harsha Vardhan's Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/hv789"><img src="https://api.daily.dev/devcards/v2/4mKrE1cVzXtSJtpkincuT.png?r=yao&type=wide" width="652" alt="Harsha Vardhan's Dev Card"/></a>
+</div>
 
 <!--Intro end-->
 
