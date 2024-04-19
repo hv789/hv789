@@ -17,17 +17,17 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Internship projects**
+- 🔭 Currently working on some interesting **Side Projects**
 
-- 🌱 I’m currently learning **DevOps, AWS, and Cloud Technologies**
+- 🌱 Exploring **GraphQL, Redis, DevOps, & AWS (Terraform)**
 
-- ☁️ I've keen interest in production workflows. So,I'm learning **DevOps**
+- ☁️ Reading and exploring new technology every day (quite literally)... **Keeps the mind busy 😙**
 
-- 📝 All of my projects are available at https://hv789.vercel.app/project
+- 📝 Wanna check out my background...? Do visit my **[Linkedin](https://www.linkedin.com/in/hv8/) & [Portfolio](https://hv789.vercel.app/)**
 
-- 💬 Ask me about **React, React-Native, Nodejs, DevOps, Cloud, C++ and DSA**
+- 💬 Worked with MERN, Nextjs, PostgreSQL, MySQL, ORMs like Prisma & Drizzle, & multiple UI Libraries
 
-- 📫 Feel free to reach me out **hv2003789@gmail.com**
+- 📫 Mail me at **hv2003789@gmail.com**
 
 <!-- Holopin Badges -->
 
@@ -83,17 +83,17 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,php&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,redux&perline=14" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind,materialui&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,postgres,prisma,graphql,redis,supabase,tailwind,materialui&perline=14" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes,bash,linux,postman,figma,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,maven,nginx,rabbitmq,jenkins,docker,kubernetes,bash,linux,postman,figma&perline=14" />
   </a>
 </p>
 
@@ -108,7 +108,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/hv8/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/harsha_vardhan.04/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.instagram.com/hv789_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
